@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/12/9 16:02:45。
+     1>项目“C:\Users\Mac\Documents\C语言代码\huiwen\huiwen\huiwen.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Users\Mac\Downloads\vs2013(visual studio 2013旗舰版)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\mac\documents\c语言代码\huiwen\huiwen\源.cpp(7): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\mac\downloads\vs2013(visual studio 2013旗舰版)\vc\include\string.h(112) : 参见“strcpy”的声明
+     1>c:\users\mac\documents\c语言代码\huiwen\huiwen\源.cpp(8): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\users\mac\downloads\vs2013(visual studio 2013旗舰版)\vc\include\string.h(257) : 参见“strrev”的声明
+     1>c:\users\mac\documents\c语言代码\huiwen\huiwen\源.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\users\mac\downloads\vs2013(visual studio 2013旗舰版)\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\mac\documents\c语言代码\huiwen\huiwen\源.cpp(17): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\users\mac\downloads\vs2013(visual studio 2013旗舰版)\vc\include\string.h(257) : 参见“strrev”的声明
+     1>c:\users\mac\documents\c语言代码\huiwen\huiwen\源.cpp(21): warning C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strrev. See online help for details.
+                 c:\users\mac\downloads\vs2013(visual studio 2013旗舰版)\vc\include\string.h(257) : 参见“strrev”的声明
+       Link:
+         C:\Users\Mac\Downloads\vs2013(visual studio 2013旗舰版)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mac\Documents\C语言代码\huiwen\Debug\huiwen.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mac\Documents\C语言代码\huiwen\Debug\huiwen.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mac\Documents\C语言代码\huiwen\Debug\huiwen.lib" /MACHINE:X86 "Debug\源.obj"
+         huiwen.vcxproj -> C:\Users\Mac\Documents\C语言代码\huiwen\Debug\huiwen.exe
+     1>已完成生成项目“C:\Users\Mac\Documents\C语言代码\huiwen\huiwen\huiwen.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.62
